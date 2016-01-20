@@ -1,0 +1,1 @@
+Library to automatize screen grabbing, mouse click and keyboard entries
